@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santiago Almeida
+# Hi, I'm Santiago Almeida
 
 💻 **Senior Full Stack Developer (.NET / Angular)**  
 📍 Quito, Ecuador  
